@@ -1,0 +1,43 @@
+body{
+    background: url('../img/bg.png') ;
+}
+header{
+    border-top: solid 3px #000;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-bottom: solid 3px #000;
+}
+footer{
+    border-bottom: solid 3px #000;
+    border-top: solid 3px #000;
+}footer img{
+    padding: 10px 0;
+
+}.home{
+    min-height: 500px;
+    background: rgba(255, 255, 255, 0.81);
+}html .navbar-default .navbar-collapse,html .navbar-default .navbar-form{
+    border-color: transparent;
+}html .navbar-default{
+    margin-top: 30%;
+}
+html .navbar-default .navbar-nav>.active>a,html .navbar-default .navbar-nav>.active>a:focus,html .navbar-default .navbar-nav>.active>a:hover{
+    background-color:transparent;
+}
+html .navbar-default .navbar-nav>li>a{
+    color: #337ab7;
+}html .navbar-nav{
+}.title h3{
+    color: #bf0b29; 
+    border-bottom: solid 1px #000;
+    padding: 5px;
+}.tables .table{
+    width: 80%;
+    margin: 0 auto;
+}.img{
+    width: 80px;
+    height: 80px;
+}.result{
+    width: 60%;
+    margin: 0 auto;
+}
